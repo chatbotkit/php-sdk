@@ -1,0 +1,18 @@
+{
+    "name": "chatbotkit/sdk",
+    "description": "The fastest way to build advanced AI chat bots.",
+    "type": "library",
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "Chatbotkit\\Sdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Petko D. Petkov",
+            "email": "pdp@chatbotkit.com"
+        }
+    ],
+    "require": {}
+}
